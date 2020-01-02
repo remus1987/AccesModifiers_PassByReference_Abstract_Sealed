@@ -1,0 +1,11 @@
+C:\Users\Remus Iftimie\Personal_GitHub\AdditionalCSharpConcepts\bin\Debug\netcoreapp3.1\AdditionalCSharpConcepts.exe
+C:\Users\Remus Iftimie\Personal_GitHub\AdditionalCSharpConcepts\bin\Debug\netcoreapp3.1\AdditionalCSharpConcepts.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\AdditionalCSharpConcepts\bin\Debug\netcoreapp3.1\AdditionalCSharpConcepts.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\AdditionalCSharpConcepts\bin\Debug\netcoreapp3.1\AdditionalCSharpConcepts.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\AdditionalCSharpConcepts\bin\Debug\netcoreapp3.1\AdditionalCSharpConcepts.dll
+C:\Users\Remus Iftimie\Personal_GitHub\AdditionalCSharpConcepts\bin\Debug\netcoreapp3.1\AdditionalCSharpConcepts.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\AdditionalCSharpConcepts\obj\Debug\netcoreapp3.1\AdditionalCSharpConcepts.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\AdditionalCSharpConcepts\obj\Debug\netcoreapp3.1\AdditionalCSharpConcepts.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\AdditionalCSharpConcepts\obj\Debug\netcoreapp3.1\AdditionalCSharpConcepts.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\AdditionalCSharpConcepts\obj\Debug\netcoreapp3.1\AdditionalCSharpConcepts.dll
+C:\Users\Remus Iftimie\Personal_GitHub\AdditionalCSharpConcepts\obj\Debug\netcoreapp3.1\AdditionalCSharpConcepts.pdb
